@@ -1,6 +1,8 @@
 ---
 title: Почему не заливаются площади
-order: 5.5
+order: 2.5
+aliases:
+  - { path: pochemu-ne-zalivayutsya-ploschadi, moved: "2026-11-26T14:20:56Z" }
 ---
 
 все завист от толщины стен и расстояний

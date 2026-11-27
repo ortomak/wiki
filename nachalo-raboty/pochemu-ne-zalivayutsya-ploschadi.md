@@ -8,3 +8,5 @@ aliases:
 все завист от толщины стен и расстояний
 
 ![](./pochemu-ne-zalivayutsya-ploschadi.webp){width=801px height=592px}
+
+Варианты исправления, убрать у тонких стен - гранцу помещений
